@@ -1,7 +1,11 @@
 Instalación de minikube
 minikube start --cpus 6 --memory 8192 --vm-driver=virtualbox
+Estos parámetros son necesarios debido a la cantidad de pods,
+si no tienen estos recursos es probable que el proyecto no funcione correctamente
+
 Elegimos la versión y descargamos
 https://github.com/istio/istio/tags
+
 
 Descomprimimos la carpeta
 Entramos a la carpeta y copiamos la ruta donde se encuentra el directorio bin:
