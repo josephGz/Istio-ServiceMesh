@@ -14,6 +14,10 @@ C:\Users\Usuario\Documents\istio-1.10.2\bin
 Luego ingresar a la variables de entorno de Windows y en el path colocamos la ruta anterior.
 Es recomendable colocar en las variables del sistema y del usuario
 
+Instalación de Chocolatey
+https://chocolatey.org/install
+
+
 Instalación de istioctl en la consola de Windows
 choco install istioctl
 
